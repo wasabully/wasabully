@@ -5,7 +5,7 @@
 
 ### wasabully:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
