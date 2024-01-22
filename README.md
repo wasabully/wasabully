@@ -32,5 +32,4 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabully)](https://github.com/wasabully/github-readme-stats)
 ---
