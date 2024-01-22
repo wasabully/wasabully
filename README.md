@@ -30,4 +30,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
 </div>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabully)](https://github.com/wasabully/github-readme-stats)
 ---
