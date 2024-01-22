@@ -3,7 +3,7 @@
 
 ---
 
-### :wasabully: Обо мне:
+### wasabully:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
