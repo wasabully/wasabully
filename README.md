@@ -18,7 +18,7 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/greatw/badges/large)](https://www.codewars.com/users/bessacoc) 
+[![codewars][(https://www.codewars.com/users/bessacoc/stats)](https://www.codewars.com/users/bessacoc) 
 
 ---
 ### 💻 technologies:
