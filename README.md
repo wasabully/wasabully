@@ -15,7 +15,7 @@
 
 - :seedling: Завершил курсы по веб-разработке RS-School!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-wasabully-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wasabully) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](danildemchenko.official@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-wasabully-blue?style=Telegram&logoColor=white)](https://t.me/wasabully) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](danildemchenko.official@gmail.com)
 
 ---
 
