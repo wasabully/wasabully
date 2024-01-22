@@ -15,10 +15,8 @@
 - sᴛᴜᴅᴇɴᴛ ᴏꜰ ʀᴏʟʟɪɴɢ sᴄᴏᴘᴇs sᴄʜᴏᴏʟ!
 
 - ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ: [![Telegram Badge](https://img.shields.io/badge/-wasabully-blue?style=Telegram&logoColor=white)](https://t.me/wasabully) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](danildemchenko.official@gmail.com)
-
+- 
 ---
-
-### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/wasabully" target="_blank">
