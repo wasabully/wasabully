@@ -18,6 +18,9 @@
 
 ---
 
+[![codewars](https://www.codewars.com/users/greatw/badges/large)](https://www.codewars.com/users/bessacoc) 
+
+---
 ### 💻 technologies:
 
 <div>
