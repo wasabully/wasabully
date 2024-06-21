@@ -53,3 +53,14 @@
 </p>
 
 ###
+
+###
+
+### 🛠 Pet-projects
+| Name | Description | Tools |
+| --- | --- | --- |
+| [...](https://github.com/) | .. | .., ..., ..., ... |
+| [...](https://github.com/) | .. | .., ..., ..., ... |
+| [...](https://github.com/) | .. | .., ..., ..., ... |
+
+###
