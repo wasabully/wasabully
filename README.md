@@ -12,9 +12,6 @@
 ###
 
 <div align="center">
-  <a href="mailto:danildemchenko.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="25" alt="Gmail logo" />
-  </a>
   <a href="https://t.me/wasabully" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
   </a>
