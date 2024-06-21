@@ -1,9 +1,14 @@
+<br clear="both">
 
-# Hi, My name is Danya
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600"/>
+<div align="center">
+  <img height="350" width="600" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="center">I am Danya, frontend developer</h1>
+
+###
 
 ---
 
