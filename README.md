@@ -59,8 +59,11 @@
 ### 🛠 Pet-projects
 | Name | Description | Tools |
 | --- | --- | --- |
-| [...](https://github.com/) | .. | .., ..., ..., ... |
-| [...](https://github.com/) | .. | .., ..., ..., ... |
+| [electric-cars-website](https://github.com/wasabully/electric-cars-website) | electric-cars-website | html, css, js |
+| [React-Native-Navigation](https://github.com/wasabully/React-Native-Navigation) | React-Native-Navigation | TS, React, Redux Toolkit, React Navigation |
+| [slider](https://github.com/wasabully/slider.github.io) | slider | html, css, js |
+| [card-gallery](https://github.com/wasabully/card-gallery.github.io) | card-gallery | html, css, js |
+| [time](https://github.com/wasabully/time.github.io?tab=readme-ov-file) | time | html, js |
 | [...](https://github.com/) | .. | .., ..., ..., ... |
 
 ###
