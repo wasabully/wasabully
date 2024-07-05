@@ -1,59 +1,48 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" width="600" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  <img height="350" width="600" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </div>
 
 ###
 
 <h1 align="center">I am Danya, frontend developer</h1>
-<h4 align="center">sᴛᴜᴅᴇɴᴛ ᴏꜰ sᴄʜᴏᴏʟ 21 ꜰʀᴏᴍ sʙᴇʀ / w20 .</h4>
-
 
 ###
 
----
+<hr>
 
 ### Information:
 
-###
+<h3 align="left">Study:</h3>
 
-<div align="center">
-  <a href="mailto:danildemchenko.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="25" alt="Gmail logo" />
+- student of [School 21 from Sber](https://21-school.ru)
+- student of [Rolling Scopes School](https://rs.school/)
+
+<div align="left">
+  <h3>Contacts:</h3>
+  <a href="mailto:dd.danildemchenko@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
   </a>
   <a href="https://t.me/wasabully" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram logo" />
   </a>
 </div>
 
 ###
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
+<h3 align="left">🛠 Skills:</h3>
 
-###
-<p align="center">
+- JavaScript, TypeScript, HTML, CSS, C/C++
+- React, Redux Toolkit, Firebase, Npm, Yarn, Figma, Qt, Makefile
+- Docker, Postman, Bash, Shell, Git, Linux
+- PostgreSQL
+
+<p align="left">
   <a href="https://www.codewars.com/users/bessacoc">
     <img src="https://www.codewars.com/users/bessacoc/badges/large?theme=light" alt="codewars">
   </a>
 </p>
-
-
-
-<h3 align="left">🛠 Skills:</h3>
-
-###
-
-###
-
-  -  JavaScript, TypeScript, HTML, CSS, C/C++
-  -  React, Redux Toolkit, Firebase ,Npm, Yarn, Figma, Qt, Makefile
-  -  Docker, Postman, Bash, Shell, Git, Linux
-  -  PostgreSQL
-
-###
 
 ###
 
