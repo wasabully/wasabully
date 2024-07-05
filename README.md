@@ -40,10 +40,11 @@
 
 ###
 <p align="center">
-  <a href="https://www.codewars.com/users/wasabully">
-    <img src="https://www.codewars.com/users/wasabully/badges/large" alt="codewars">
+  <a href="https://www.codewars.com/users/bessacoc">
+    <img src="https://www.codewars.com/users/bessacoc/badges/large?theme=light" alt="codewars">
   </a>
 </p>
+
 
 
 <h3 align="left">🛠 Skills:</h3>
