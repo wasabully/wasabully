@@ -39,6 +39,12 @@
 </p>
 
 ###
+<p align="center">
+  <a href="https://www.codewars.com/users/wasabully">
+    <img src="https://www.codewars.com/users/wasabully/badges/large" alt="codewars">
+  </a>
+</p>
+
 
 <h3 align="left">🛠 Skills:</h3>
 
