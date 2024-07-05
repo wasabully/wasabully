@@ -7,6 +7,8 @@
 ###
 
 <h1 align="center">I am Danya, frontend developer</h1>
+<h4 align="center">sᴛᴜᴅᴇɴᴛ ᴏꜰ sᴄʜᴏᴏʟ 21 ꜰʀᴏᴍ sʙᴇʀ / w20 .</h4>
+
 
 ###
 
@@ -25,13 +27,6 @@
   </a>
 </div>
 
-###
-
-
-###
-
-- sᴛᴜᴅᴇɴᴛ ᴏꜰ sᴄʜᴏᴏʟ 21 ꜰʀᴏᴍ sʙᴇʀ / w20 .
-  
 ###
 
 <p align="center">
