@@ -1,11 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" width="600" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img height="250" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </div>
 
 ###
-
 <h1 align="center">I am Danya, frontend developer</h1>
 
 ###
