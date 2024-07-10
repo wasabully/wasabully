@@ -45,12 +45,5 @@
 
 ###
 
-### 🛠 Pet-projects
-| Name | Description | Tools |
-| --- | --- | --- |
-| [React-Native-Navigation](https://github.com/wasabully/React-Native-Navigation) | react-native-app | TS, React, Redux Toolkit, React Navigation |
-| [slider](https://github.com/wasabully/slider.github.io) | slider | html, css, js |
-| [card-gallery](https://github.com/wasabully/card-gallery.github.io) | card-gallery | html, css, js |
-| [...](https://github.com/) | .. | .., ..., ..., ... |
-
+### 🛠 [Pet-projects](https://github.com/wasabully?tab=repositories)
 ###
