@@ -22,12 +22,6 @@
 - Docker, Postman, Bash, Shell, Git, Linux
 - PostgreSQL
 
-<p align="left">
-  <a href="https://www.codewars.com/users/bessacoc">
-    <img src="https://www.codewars.com/users/bessacoc/badges/large?theme=light" alt="codewars">
-  </a>
-</p>
-
 ###
 
 ### 🛠 [Pet-projects](https://github.com/wasabully?tab=repositories)
