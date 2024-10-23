@@ -1,7 +1,7 @@
 ## Projects:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [Name](https://github.com/wasabully) | Description  | Tools|
+| [Animals-page](https://github.com/wasabully/Animals-page) | Animals-page | JS, CSS, HTML|
 
 
 ---
