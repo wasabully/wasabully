@@ -1,7 +1,7 @@
 ## Projects:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [Animals-page](https://github.com/wasabully/Animals-page) | Animals-page | JS, CSS, HTML|
+| [Audio-player](https://github.com/wasabully/audio-player) | Audio-player | JS, CSS, HTML|
 
 
 ---
