@@ -1,7 +1,7 @@
 ## Projects:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [Player](https://github.com/wasabully/Player) | Music player | JS, CSS, HTML|
+|[Music-player](https://github.com/wasabully/Player) | app for listening to music | JS, CSS, HTML|
 
 
 ---
