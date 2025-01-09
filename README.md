@@ -1,7 +1,7 @@
 ## Projects:
 | Name | Description | Tools |
 | --- | --- | --- |
-|[GitHub-Profile-Search](https://github.com/wasabully/GitHub-Profile-Search)| An application to find GitHub profiles by username | JS, CSS, HTML, Github Api|
+|[GitHub-Profile-Search](https://github.com/wasabully/GitHub-Profile-Search)| An application to find GitHub profiles by username | JS, CSS, HTML, GitHub REST API|
 |[Christmas-Shop](https://github.com/wasabully/Christmas-Shop) | Сhristmas store pages | JS, SCSS, HTML |
 |[Music-player](https://github.com/wasabully/Player) | An app for playing music | JS, CSS, HTML|
 
